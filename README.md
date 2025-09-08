@@ -1,0 +1,2 @@
+# Power Apps
+Power Apps is a low code platform by Microsoft that lets you build custom business applications quickly and easily, without needing to be a professional developer. You can create apps that connect to your data (like Excel, SharePoint, or SQL), automate workflows, and run seamlessly on web or mobile devices. Whether you're streamlining a process or solving a unique business challenge, Power Apps empowers you to turn ideas into working solutions with drag and drop simplicity.
